@@ -18,7 +18,7 @@ You will need to run this jar file :
 			  <artifactId>Partition-0.0.1-SNAPSHOT</artifactId>  
 			  <version>0.0.1-SNAPSHOT</version>
 			</dependency>
-			
+	. JUNIT 4.12 	
 
 
 -----------Running ------------------- 
@@ -26,7 +26,7 @@ You will need to run this jar file :
 				ListPartition p = new ListPartition(subset,paramList);
 				p.partitionList();
 				
-		. Le test unitaire s'executera automatiquement, au cas d'echeance une exception et afficher.
+		. Le test unitaire(JUNIT) s'executera automatiquement, au cas d'echeance une exception et afficher.
 
 ---------------Authors------------------
 OUBELQUE KHALID
