@@ -2,12 +2,12 @@
 fonction « partition » qui prend un paramètre « liste » et un paramètre « taille » et retourne une liste de sous liste, où chaque sous liste a au maximum « taille » éléments.
 
 
--------------Project Title---------------
+##Project Title
 
 Le livrable dispose d'une fonction partitionList() qui retourne une liste de sous liste, où chaque sous liste a au maximum
 
 
--------------Prerequisites----------------
+##Prerequisites
 
 You will need to run this jar file :
 	. jdk 8
@@ -21,12 +21,12 @@ You will need to run this jar file :
 	. JUNIT 4.12 	
 
 
------------Running ------------------- 
+##Running
 		. Il suffit d'instancier la classe Partition et mettre en parametre la taille et la list a partitionner, et apres appeller la methode comme mentionne dessous :
 				ListPartition p = new ListPartition(subset,paramList);
 				p.partitionList();
 				
 		. Le test unitaire(JUNIT) s'executera automatiquement, au cas d'echeance une exception et afficher.
 
----------------Authors------------------
+##Authors
 OUBELQUE KHALID
